@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rtrieu
+- 👀 I’m interested in technical writing and typewriters
+- 🌱 I’m currently learning how to paint
+- 📝 Check out my portfolio at [rosatrieu.com](https://www.rosatrieu.com)
